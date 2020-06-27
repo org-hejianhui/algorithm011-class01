@@ -1,6 +1,4 @@
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
+package 删除排序数组中的重复项;
 
 /**
  * <p>
@@ -28,7 +26,9 @@ public class RemoveDuplicates {
 
         while (q < nums.length){
             if (nums[p] != nums[q]) {
-                nums[p + 1] = nums[q];
+                if(q - p > 1){
+                    nums[p + 1] = nums[q];
+                }
                 p++;
             }
             q++;
