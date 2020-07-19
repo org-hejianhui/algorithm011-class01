@@ -2,14 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="812eeecf-3ded-4668-9605-b94d9b45dd01" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Week_04/10. 贪心算法-2020-07-14.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_04/11.二分查找的实现与特性-2020-07-17.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_04/9. 深度优先搜索和广度优先搜索-2020-07-13.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_04/单词接龙/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_04/岛屿数量/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_04/搜索旋转排序数组/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_04/柠檬水找零/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_04/模拟行走机器人/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Week_04/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week_04/README.md" afterDir="false" />
     </list>
@@ -85,7 +77,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Week_04/模拟行走机器人/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="569">
@@ -114,12 +106,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Week_04/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="30">
-                <caret line="2" selection-start-line="2" selection-end-line="2" />
+                <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
               </first_editor>
               <second_editor />
             </state>
@@ -169,12 +161,12 @@
         <option value="$PROJECT_DIR$/../my-algorithm/src/main/java/com/nuih/leetcode/editor/cn/[105]从前序与中序遍历序列构造二叉树.java" />
         <option value="$PROJECT_DIR$/Week_03/从前序与中序遍历序列构造二叉树/Solution.java" />
         <option value="$PROJECT_DIR$/Week_03/46. 全排列-2020-07-12.md" />
-        <option value="$PROJECT_DIR$/Week_04/README.md" />
         <option value="$PROJECT_DIR$/Week_04/柠檬水找零/Solution.java" />
         <option value="$PROJECT_DIR$/Week_04/搜索旋转排序数组/Solution.java" />
         <option value="$PROJECT_DIR$/Week_04/岛屿数量/Solution.java" />
         <option value="$PROJECT_DIR$/Week_04/单词接龙/Solution.java" />
         <option value="$PROJECT_DIR$/Week_04/模拟行走机器人/Solution.java" />
+        <option value="$PROJECT_DIR$/Week_04/README.md" />
       </list>
     </option>
   </component>
@@ -288,7 +280,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1595170545401" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1595173688533" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -399,7 +391,7 @@
       <workItem from="1593927320042" duration="10354000" />
       <workItem from="1594021343918" duration="562000" />
       <workItem from="1594526728341" duration="4146000" />
-      <workItem from="1595164669160" duration="1814000" />
+      <workItem from="1595164669160" duration="2873000" />
     </task>
     <task id="LOCAL-00001" summary="第二周作业">
       <created>1593941497018</created>
@@ -429,11 +421,18 @@
       <option name="project" value="LOCAL" />
       <updated>1594536720263</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="第四周作业">
+      <created>1595170570007</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1595170570007</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69307000" />
+    <option name="totallyTimeSpent" value="70366000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="164" y="23" width="1272" height="828" extended-state="0" />
@@ -479,7 +478,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第二周作业" />
     <MESSAGE value="第三周作业" />
-    <option name="LAST_COMMIT_MESSAGE" value="第三周作业" />
+    <MESSAGE value="第四周作业" />
+    <option name="LAST_COMMIT_MESSAGE" value="第四周作业" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -858,16 +858,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week_04/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="30">
-            <caret line="2" selection-start-line="2" selection-end-line="2" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Week_04/9. 深度优先搜索和广度优先搜索-2020-07-13.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -937,6 +927,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="569">
           <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_04/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
