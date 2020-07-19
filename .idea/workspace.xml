@@ -110,8 +110,8 @@
         <entry file="file://$PROJECT_DIR$/Week_04/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="30">
-                <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+              <first_editor relative-caret-position="45">
+                <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
               </first_editor>
               <second_editor />
             </state>
@@ -280,7 +280,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1595173688533" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1595173742665" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -391,7 +391,7 @@
       <workItem from="1593927320042" duration="10354000" />
       <workItem from="1594021343918" duration="562000" />
       <workItem from="1594526728341" duration="4146000" />
-      <workItem from="1595164669160" duration="2873000" />
+      <workItem from="1595164669160" duration="2993000" />
     </task>
     <task id="LOCAL-00001" summary="第二周作业">
       <created>1593941497018</created>
@@ -428,11 +428,18 @@
       <option name="project" value="LOCAL" />
       <updated>1595170570007</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="第四周作业">
+      <created>1595173723495</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1595173723495</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70366000" />
+    <option name="totallyTimeSpent" value="70486000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="164" y="23" width="1272" height="828" extended-state="0" />
@@ -933,8 +940,8 @@
     <entry file="file://$PROJECT_DIR$/Week_04/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="30">
-            <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+          <first_editor relative-caret-position="45">
+            <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
           </first_editor>
           <second_editor />
         </state>
